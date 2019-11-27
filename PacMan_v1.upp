@@ -1,0 +1,15 @@
+description "PacMan avec UltimateOpenGL\377";
+
+uses
+	UltimateOpenGL_V2;
+
+library
+	glfw3;
+
+file
+	Cube.h,
+	Main.cpp;
+
+mainconfig
+	"" = "";
+
